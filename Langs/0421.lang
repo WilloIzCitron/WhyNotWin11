@@ -89,3 +89,4 @@ RAM=Jumlah memori cepat yang terpasang di komputer Anda. Dapat ditingkatkan seca
 Secure Boot=Metode yang digunakan motherboard Anda untuk memuat Windows. Jika tidak terdeteksi, dapat diperbaiki pada motherboard yang lebih baru di pengaturan BIOS/UEFI Anda. Lihat manual motherboard Anda.
 Storage=Jumlah ruang untuk data di disk Anda. Secara fisik dapat ditingkatkan di Laptop kelas atas.
 TPM=Modul keamanan yang digunakan oleh Windows. Semua CPU AMD modern punya satu modul; Beberapa CPU Intel modern punya satu modul; dan pula menggunaka
+
